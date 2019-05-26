@@ -1,0 +1,18 @@
+.alinhamentoFormulario {
+  display: inline-block;
+}
+.dadosSegurado input{
+	width: 200px;
+}
+
+.form-control{
+	width: 310px;
+}
+
+.confirmaExclusao td{
+    width: 250px;
+}
+
+.oculto {
+    visibility: hidden;
+}
