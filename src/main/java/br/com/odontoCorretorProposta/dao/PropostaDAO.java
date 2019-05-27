@@ -61,7 +61,7 @@ public class PropostaDAO implements IPropostaDAO {
 		
 		listarRetorno = calendarToString.converteLista(listarRetorno, "dd/MM/yyyy");
 		
-		return calendarToString.converteLista(listarRetorno, "dd/MM/yyyy");
+		return listarRetorno;
 	}
 
 
